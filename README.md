@@ -1,11 +1,11 @@
-<h1 align="center">Hi 👋, I'm Pawan Ingle</h1>
+<h1 align="center">Hi 👋, I'm Kalash Shar</h1>
 <h3 align="center">A passionate Data Analyst from India</h3>
 
 - 🌱 I’m currently learning **Advance Power BI, Python**
 
 - 💬 Ask me about **Power BI, Excel, Python, SQL & Data Analytics**
 
-- 📫 How to reach me **pawaningle640@gmail.com**
+- 📫 How to reach me **kalashshar1234@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
